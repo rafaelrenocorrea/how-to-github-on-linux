@@ -79,6 +79,7 @@ __Configurar a chave GPG para assinatura dos _commits_:__
 ### 8º Passo:
 __Contar ao Git seu nome e e-mail para assinatura dos commits:__
 - `git config --global user.name "<nome>"`;
+> "nome" é o nome de usuário do GitHub.
 - `git config --global user.email "<e-mail>"`.
 > O e-mail deve ser o mesmo do GitHub.
 
